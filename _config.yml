@@ -5,9 +5,9 @@ highlighter: rouge # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: pretty
 
-#website: http://mckvr.com
+#website: https://ss4ws.github.io/comma/
 
-# baseurl: //mckvr.com
+#baseurl: //ss4ws.github.io/comma/
 
 author: Spyros Simotas
 
