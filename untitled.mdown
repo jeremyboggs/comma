@@ -1,0 +1,9 @@
+---
+layout: post
+type: "post"
+title:  "Working at Scholars’ Lab Makerspace, pt. 1"
+date:   2017-06-15
+categories: Makerspace, 3D printing, Personal 
+canonical: "Blog post"
+description: “First encounter with 3D printing“
+---
