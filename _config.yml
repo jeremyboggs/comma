@@ -5,9 +5,9 @@ highlighter: rouge # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
 permalink: pretty
 
-#website: https://ss4ws.github.io/comma/
+website: https://ss4ws.github.io/comma/
 
-#baseurl: //ss4ws.github.io/comma/
+baseurl: //ss4ws.github.io/comma/
 
 author: Spyros Simotas
 
@@ -69,9 +69,9 @@ collections:
 # Navigation
 navigation:
   - title: Blog
-    url: comma/blog/
+    url: /blog/
   - title: Vitæ
-    url: comma/vita/
+    url: /vita/
   - title: Teaching ePortfolio
-    url: comma/ePortfolio/
+    url: /ePortfolio/
 
