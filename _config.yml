@@ -1,9 +1,9 @@
-name: Spyros Simotas, PhD Candidate & Praxis Fellow, University of Virginia
-description: Freelance Digital Designer & Front-end Developer, Belfast
+name: Spyros Simotas
+description: PhD Candidate & Praxis Fellow, University of Virginia
 markdown: kramdown
 highlighter: rouge # or rouge or null
 exclude: ["node_modules", "gulpfile.js", "package.json"]
-permalink: pretty
+#permalink: pretty
 
 #website: https://ss4ws.github.io/comma/
 
